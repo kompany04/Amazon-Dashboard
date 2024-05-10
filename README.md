@@ -1,6 +1,6 @@
 # Amazon-Dashboard
 
-Objectives
+*Objectives*
 
 Who -Amazon's E-commerce department who have a large customer base using different recommendation systems to provide suggestions to the customers.
 
